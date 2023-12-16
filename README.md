@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Alon-Lavi
+# 👋 Hi, I’m Alon-Lavi
 Welcome to my GitHub profile! I'm Alon Lavi, a Full Stack / Frontend web Developer.
 
 ## 👀 I’m interested in ...
